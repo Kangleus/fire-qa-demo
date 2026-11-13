@@ -1,4 +1,4 @@
-/* XX消防培训 · 智能答疑 演示版 */
+/* 南消职业培训 · 智能答疑 演示版 */
 (function () {
   "use strict";
   const D = window.FIRE_DATA;

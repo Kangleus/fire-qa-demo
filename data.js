@@ -1,6 +1,6 @@
 /* 消防设施操作员智能答疑 · 演示数据（规范条文已核对；教材页码与真题均为示例） */
 window.FIRE_DATA = {
-  brand: "XX消防培训",
+  brand: "南消职业培训",
   slogan: "智能答疑",
   kbStats: { books: 3, codes: 6, exams: 120, demo: true },
 
